@@ -2,6 +2,7 @@
 v
 u
 t
+<<<<<<< HEAD
 git pull operation
 
 
@@ -9,3 +10,7 @@ git pull operation
 
 
 abc
+=======
+Bye
+git pull operation
+>>>>>>> 986a447ee6abfffc330cbe001ba9354d2d680e94
